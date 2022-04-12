@@ -1,17 +1,16 @@
 # Introduction
 
-Repository for keeping my Obsidian notes related to the CS curriculum from [OSSU](https://github.com/ossu/computer-science).
+Repository for keeping my Obsidian notes related to learning game development with rust. Resources are taken from [Are we game yet?](https://arewegameyet.rs/).
 
-# Curriculum
+# Resources
 
-The course outline is available at my personal [Trello board](https://trello.com/b/f4VBqRjL/ossu-cs).
+- [Hands-on Rust - Effective Learning through 2D Game Development and Play](https://pragprog.com/titles/hwrust/hands-on-rust/)
 
 # Obsidian plugin list
 
 - Theme: [Minimal](https://github.com/kepano/obsidian-minimal) (Gruvbox pallette)
 - [Advanced Tables](https://github.com/tgrosinger/advanced-tables-obsidian)
 - [Calendar](https://github.com/liamcain/obsidian-calendar-plugin)
-- [Dataview](https://github.com/blacksmithgu/obsidian-dataview)
 - [Ozan's Image in Editor](https://github.com/ozntel/oz-image-in-editor-obsidian)
 - [Sliding Panes](https://github.com/deathau/sliding-panes-obsidian)
 - [Style Settings](https://github.com/mgmeyers/obsidian-style-settings)
