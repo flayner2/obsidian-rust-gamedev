@@ -1,0 +1,4 @@
+# Game loop
+Games are not like most terminal-based programs, where instructions are executed in a semi-linear sequence and the program is halted whenever it needs user input. Instead, games run smoothly independently of the user's interaction. For that, they use what is called a ==game loop==. The game loop initializes the game's systems, such as the window, graphics and other resources, and then updates the game, calling its `tick()` function 30, 60 or even more times each second. In each iteration, it also polls the operating system for the state of possible inputs, usually communicated in the form of *events*.
+
+![[game_loop.png.png]]
